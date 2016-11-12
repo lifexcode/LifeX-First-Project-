@@ -4,7 +4,7 @@
 //
 //  Created by Aiman Hazimin on 11/11/2016.
 //  Copyright © 2016 Aidid Haiqal. All rights reserved.
-//
+//  I am your new dark lord. HAHAHAHA
 
 import UIKit
 
@@ -17,7 +17,7 @@ var tapCount = 0
     
     @IBAction func buttontapped(_ sender: Any) { tapCount = tapCount + 1
         if tapCount >= 5 {
-            momoLabel.text = "Syahir!!!"
+            momoLabel.text = "Syahir!!! Busuk"
         }
     
     }
